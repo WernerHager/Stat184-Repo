@@ -1,1 +1,1 @@
-# GitHub-Practice-184
+# Stat184-Repo
